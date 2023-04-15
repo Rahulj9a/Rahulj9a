@@ -9,7 +9,7 @@ I've been learning web development for past one year. Learning everything by mys
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [MyPortfolio](http://rahulj9aportfolio.netlify.app)
 *   ✉️  You can contact me at [rahulj9a@gmail.com](mailto:rahulj9a@gmail.com)
-*   🧠  I'm learning MERN stack
+*   🧠  I'm learning Next.js, typescript and tools like Prisma and Vercel
 *   🤝  I'm open to collaborating on any interesting web based project
 *   ⚡  I have never imagine being a literature grad, i can learn programming, but see I am
 
