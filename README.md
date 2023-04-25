@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Solanki
 =====================================================================================================================================
 
-Self-taught Full Stack Web Developer
+Self-taught Full Stack Web Developer 
+(Expertise in Frontend)
 ------------------------------------
 
-I've been learning web development for past one year. Learning everything by myself till now i have already learn stacks like Javascript, Tailwind CSS, React.js and currently learning MERN stack.
+I've been learning web development for past one year. Learning everything by myself till now i have already learn stacks like Javascript, Tailwind CSS, React.js, MERN stack and currently learning NEXTJS and Typescript
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [MyPortfolio](http://rahulj9aportfolio.netlify.app)
