@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Solanki
-=====================================================================================================================================
-
-Self-taught Full Stack Web Developer 
-(Expertise in Frontend)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Rahul Solanki
+========
+Self-taught Frontend Web Developer 
 ------------------------------------
 
 I've been learning web development for past one year. Learning everything by myself till now i have already learn stacks like Javascript, Tailwind CSS, React.js, MERN stack and currently learning NEXTJS and Typescript
@@ -12,7 +10,7 @@ I've been learning web development for past one year. Learning everything by mys
 *   ✉️  You can contact me at [rahulj9a@gmail.com](mailto:rahulj9a@gmail.com)
 *   🧠  I'm learning Next.js, typescript and tools like Prisma and Vercel
 *   🤝  I'm open to collaborating on any interesting web based project
-*   ⚡  I have never imagine being a literature grad, i can learn programming, but see I am
+*   ⚡  Have any idea? why not share!
 
 ### Skills 
 
